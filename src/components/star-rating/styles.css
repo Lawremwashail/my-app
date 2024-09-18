@@ -1,0 +1,12 @@
+.containter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active {
+    color: #fff701
+}
+
+.inactive {
+    color: #000000;
+}

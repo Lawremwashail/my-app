@@ -1,0 +1,19 @@
+.tree-view-container {
+    margin: 5px;
+    background-color: blue;
+    color: #fff;
+    height: auto;
+    width: 600px;
+    border-radius: 5px;
+}
+.item-container {
+    display: flex;
+    gap: 20px;
+}
+.item-container span {
+    cursor: pointer;
+    color: aliceblue;
+}
+.container {
+    list-style: none;
+}
